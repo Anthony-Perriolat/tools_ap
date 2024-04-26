@@ -1,0 +1,4 @@
+cmd 
+
+seo test local 
+lighthouse http://localhost:8080/auth/signUp --view
